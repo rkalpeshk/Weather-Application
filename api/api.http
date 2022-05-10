@@ -1,0 +1,1 @@
+GET http://api.openweathermap.org/data/2.5/weather?q=mumbai&appid=fe3eeeb58923192a474741383b423aa5 HTTP/1.1
